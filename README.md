@@ -43,4 +43,5 @@ Accuracy Score: 72.89%
 
 First Hidden Layer: 348 nodes (triple the total features)
 Accuracy Score: 72.94%
-The observed differences in results among the three models appear marginal. Notwithstanding, the orignal model exhibited the highest accuracy at 73.03%.
+
+### The observed differences in results among the three models appear marginal. Notwithstanding, the orignal model exhibited the highest accuracy at 73.03%.
